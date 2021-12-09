@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/StartS.unity
+    guid: 192125059ef5e7847a3c03cfffd43c46
+  - enabled: 1
+    path: Assets/Scenes/Main/MainS.unity
+    guid: 184a267973b31ff4a8efc5e9e7d8d0db
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_1TS.unity
+    guid: 0baad9c2eb211cc44a038f5b1f7fc7ab
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_2TS.unity
+    guid: c406b481a396dfb49a45d0621feafd00
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_3TS.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_4TS.unity
+    guid: aa8eac52a1a03174b98d7f193f6e214e
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_5TS.unity
+    guid: e0685d736224c3646be2cab94cdf12ad
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_6TS.unity
+    guid: 66194831304558944873c4dee00102fa
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_7TS.unity
+    guid: ddda7142deba822438ac8afa575f2200
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_8TS.unity
+    guid: 8a630416065fabe4b957cbea73bab1e5
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_9TS.unity
+    guid: ec82d0e7d761b02478bc01fcdd1f31b2
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_10TS.unity
+    guid: f29d16283547b0348a101a0a689e9b13
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_11TS.unity
+    guid: b1473e9c263966b4ba2676e33e721637
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_12TS.unity
+    guid: 81ef8afaf268fc946a4aca3d30360b39
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_13TS.unity
+    guid: f1eb47b105e06fd4c8924c2f48f46b98
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_14TS.unity
+    guid: 623aee465abe27a47a7fc238cf73c243
+  - enabled: 1
+    path: Assets/Scenes/Math/Math_15TS.unity
+    guid: 76baefe0b099dfc419c6def3fae36bd0
+  - enabled: 1
+    path: Assets/Scenes/Main/Test1S.unity
+    guid: 17b9946b3feebac46b160e1e7cb76856
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_1TS.unity
+    guid: fd21d93a7ba9cfe49a5e7488ec180b51
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_2TS.unity
+    guid: bc27fd6c3cf39ef43bcd67a5d177cdc6
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_3TS.unity
+    guid: daa98887c322dc2428caaf6c87bd63fc
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_4TS.unity
+    guid: e2a418d7adb099f4586eba9654e09534
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_5TS.unity
+    guid: 0c8c3ee9033eb0e43955559a375a7a04
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_6TS.unity
+    guid: e4e22ecc59f1a794f823ff7de54aebdb
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_7TS.unity
+    guid: 3cdff9ba3df2d8c44b98163eb5e9270c
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_8TS.unity
+    guid: ffdcd38063a678d4ebbdfec364a4e4b5
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_9TS.unity
+    guid: a0b8216f54262c64e868ce235ca0121f
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_10TS.unity
+    guid: adfdd1644278bb34db9d23c9cfb5af48
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_11TS.unity
+    guid: b0c13a27f70c99347a41eba241505428
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_12TS.unity
+    guid: e6f08dbce515c194eb89fd349f9f18e0
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_13TS.unity
+    guid: 00424dc5c10751b46bd686611a48fc9b
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_14TS.unity
+    guid: 36e285eb513e5c2468236cfecbeec9e9
+  - enabled: 1
+    path: Assets/Scenes/Maze/Maze_15TS.unity
+    guid: 4d8a7d362f4cc62419926032f035e446
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_1TS.unity
+    guid: 1d20c2ed633b8da4c851cc116f3655ce
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_2TS.unity
+    guid: a115d6cb6a890ff47b6791b6a44d11a2
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_3TS.unity
+    guid: 184a8d4a0d6192a4b9abc2944a02b769
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_4TS.unity
+    guid: 7230352b756deb14fb10fda99ca3273c
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_5TS.unity
+    guid: 3ae09a319eec9e94f8f144ce00562c55
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_6TS.unity
+    guid: 9930b4cbb23fe684c90140633be5fa15
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_7TS.unity
+    guid: ea4aac4555fe3d04e9810af49ef77ade
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_8TS.unity
+    guid: 48d594bad91a5514ca7c084348607371
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_9TS.unity
+    guid: af8a38a267e08094099630e79ff75e8d
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_10TS.unity
+    guid: 228cc684f6c28b0409afb0bbcf7d9228
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_11TS.unity
+    guid: cdf9490c9a7bf6445a260ab3421d064e
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_12TS.unity
+    guid: 052db0909df4ac14b98a292480f2a1df
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_13TS.unity
+    guid: e76188156010b704395af7b2c9a64f59
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_14TS.unity
+    guid: ea09694ab92f8ce48ae29eef85ca43ca
+  - enabled: 1
+    path: Assets/Scenes/Jump/Jump_15TS.unity
+    guid: 6c93ab3358bc68841b1ab25024ca5185
+  - enabled: 1
+    path: Assets/Scenes/Luck_1TS.unity
+    guid: baed5da5121ceca44a3483d11800a198
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_1TS.unity
+    guid: c2f0d8ddd8198fc4183a1707d59b8db1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_2TS.unity
+    guid: bf83760e51250ab4e97571adc71dfb04
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_3TS.unity
+    guid: a4564e973a6687940bde93b32b6bd811
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_5TS.unity
+    guid: 103919578ae5d4843a6d25beab9e5aba
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_4TS.unity
+    guid: 16a2defc7a022824dbea2b298ee9c683
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_6TS.unity
+    guid: 62e355acd5bfbcc41bddc5d286140678
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_7TS.unity
+    guid: d4a2fb63b745bfe4fbd9bbc56c9bab94
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_8TS.unity
+    guid: 7c333c67cc88dc8489da0c3459dfcca9
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_9TS.unity
+    guid: 75c7e02816059dd428e57870d89db928
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_10TS.unity
+    guid: 4f679769887f0214591806fa47eff66a
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_11TS.unity
+    guid: f7869a6c364d14945894b944c7c59e82
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_12TS.unity
+    guid: 294c765d920b64548820ac65b4cdb6db
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_13TS.unity
+    guid: 56a11913073145f4bb9ed33f6213b1eb
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_14TS.unity
+    guid: e0a683d7e7bb0d247ac03cefe00c2b05
+  - enabled: 1
+    path: Assets/Scenes/Climb/Climb_15TS.unity
+    guid: 39e20696fcebf7147acdcc46b00222e6
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_15TS.unity
+    guid: 607ad3cc3f2934645b6fad1be02f0c2a
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_14TS.unity
+    guid: cfb2e9887776eed4bac4aa7c4bc7e9f3
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_13TS.unity
+    guid: 46f3196f42fd0a64cac8d96677678bce
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_12TS.unity
+    guid: 58e1f0814fb15504a966c38ff072009e
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_11TS.unity
+    guid: 08c5f7f844a3f6442a4e0b5e81f1184f
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_10TS.unity
+    guid: dfb4065a1d40c8046b280a8bd7591380
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_9TS.unity
+    guid: 30a01a882a4b1724986a51352e10ece7
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_8TS.unity
+    guid: 3dc068582e9320e429020995899ac765
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_7TS.unity
+    guid: dcd8a33bd5075234a9c87ede1f44a968
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_6TS.unity
+    guid: 4564ccd858de36e41b89dc9ae8a88d9b
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_5TS.unity
+    guid: 405798cf7e20ac4449e93c29f1b3b964
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_4TS.unity
+    guid: a06b6dca029f90846b7408a0547419cf
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_3TS.unity
+    guid: f655525911da4ab4f8ad8efd11748bf3
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_2TS.unity
+    guid: 7d6290b91fd85ff40bdbe2500ccd636e
+  - enabled: 1
+    path: Assets/Scenes/Run/Run_1TS.unity
+    guid: 756a06f6f810187448b87825886218ab
+  m_configObjects: {}
